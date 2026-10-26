@@ -1,0 +1,5 @@
+# game files come from your own copy of Minecraft (python extract.py <jar>) and never get committed
+game/
+*.jar
+__pycache__/
+.DS_Store

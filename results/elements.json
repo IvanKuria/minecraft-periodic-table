@@ -1,0 +1,785 @@
+[
+ {
+  "element": "amethyst_shard",
+  "members": [
+   "amethyst_shard"
+  ]
+ },
+ {
+  "element": "ancient_debris",
+  "members": [
+   "ancient_debris"
+  ]
+ },
+ {
+  "element": "apple",
+  "members": [
+   "apple"
+  ]
+ },
+ {
+  "element": "armadillo_scute",
+  "members": [
+   "armadillo_scute"
+  ]
+ },
+ {
+  "element": "bamboo",
+  "members": [
+   "bamboo"
+  ]
+ },
+ {
+  "element": "basalt",
+  "members": [
+   "basalt"
+  ]
+ },
+ {
+  "element": "beef",
+  "members": [
+   "beef"
+  ]
+ },
+ {
+  "element": "beetroot",
+  "members": [
+   "beetroot"
+  ]
+ },
+ {
+  "element": "black_flower",
+  "members": [
+   "wither_rose"
+  ]
+ },
+ {
+  "element": "blaze_rod",
+  "members": [
+   "blaze_rod"
+  ]
+ },
+ {
+  "element": "blue_flower",
+  "members": [
+   "cornflower"
+  ]
+ },
+ {
+  "element": "bone",
+  "members": [
+   "bone"
+  ]
+ },
+ {
+  "element": "breeze_rod",
+  "members": [
+   "breeze_rod"
+  ]
+ },
+ {
+  "element": "cactus",
+  "members": [
+   "cactus"
+  ]
+ },
+ {
+  "element": "calcite",
+  "members": [
+   "calcite"
+  ]
+ },
+ {
+  "element": "carrot",
+  "members": [
+   "carrot"
+  ]
+ },
+ {
+  "element": "chicken",
+  "members": [
+   "chicken"
+  ]
+ },
+ {
+  "element": "chorus_flower",
+  "members": [
+   "chorus_flower"
+  ]
+ },
+ {
+  "element": "chorus_fruit",
+  "members": [
+   "chorus_fruit"
+  ]
+ },
+ {
+  "element": "cinnabar",
+  "members": [
+   "cinnabar"
+  ]
+ },
+ {
+  "element": "clay_ball",
+  "members": [
+   "clay_ball"
+  ]
+ },
+ {
+  "element": "coal",
+  "members": [
+   "coal"
+  ]
+ },
+ {
+  "element": "cocoa_beans",
+  "members": [
+   "cocoa_beans"
+  ]
+ },
+ {
+  "element": "cod",
+  "members": [
+   "cod"
+  ]
+ },
+ {
+  "element": "coral",
+  "members": [
+   "brain_coral",
+   "bubble_coral",
+   "fire_coral",
+   "horn_coral",
+   "tube_coral"
+  ]
+ },
+ {
+  "element": "coral_fan",
+  "members": [
+   "brain_coral_fan",
+   "bubble_coral_fan",
+   "fire_coral_fan",
+   "horn_coral_fan",
+   "tube_coral_fan"
+  ]
+ },
+ {
+  "element": "crying_obsidian",
+  "members": [
+   "crying_obsidian"
+  ]
+ },
+ {
+  "element": "cyan_flower",
+  "members": [
+   "pitcher_plant"
+  ]
+ },
+ {
+  "element": "diamond",
+  "members": [
+   "diamond"
+  ]
+ },
+ {
+  "element": "dirt",
+  "members": [
+   "dirt"
+  ]
+ },
+ {
+  "element": "dragon_egg",
+  "members": [
+   "dragon_egg"
+  ]
+ },
+ {
+  "element": "dripleaf",
+  "members": [
+   "big_dripleaf",
+   "small_dripleaf"
+  ]
+ },
+ {
+  "element": "egg",
+  "members": [
+   "blue_egg",
+   "brown_egg",
+   "egg",
+   "sniffer_egg",
+   "turtle_egg"
+  ]
+ },
+ {
+  "element": "emerald",
+  "members": [
+   "emerald"
+  ]
+ },
+ {
+  "element": "end_stone",
+  "members": [
+   "end_stone"
+  ]
+ },
+ {
+  "element": "ender_pearl",
+  "members": [
+   "ender_pearl"
+  ]
+ },
+ {
+  "element": "feather",
+  "members": [
+   "feather"
+  ]
+ },
+ {
+  "element": "flint",
+  "members": [
+   "flint"
+  ]
+ },
+ {
+  "element": "flower",
+  "members": [
+   "spore_blossom"
+  ]
+ },
+ {
+  "element": "froglight",
+  "members": [
+   "ochre_froglight",
+   "pearlescent_froglight",
+   "verdant_froglight"
+  ]
+ },
+ {
+  "element": "fungus",
+  "members": [
+   "crimson_fungus",
+   "warped_fungus"
+  ]
+ },
+ {
+  "element": "ghast_tear",
+  "members": [
+   "ghast_tear"
+  ]
+ },
+ {
+  "element": "glow_berries",
+  "members": [
+   "glow_berries"
+  ]
+ },
+ {
+  "element": "glow_ink_sac",
+  "members": [
+   "glow_ink_sac"
+  ]
+ },
+ {
+  "element": "glowstone_dust",
+  "members": [
+   "glowstone_dust"
+  ]
+ },
+ {
+  "element": "grass",
+  "members": [
+   "bush",
+   "firefly_bush",
+   "nether_sprouts",
+   "red_shrub",
+   "short_dry_grass",
+   "tall_dry_grass"
+  ]
+ },
+ {
+  "element": "gravel",
+  "members": [
+   "gravel"
+  ]
+ },
+ {
+  "element": "gray_flower",
+  "members": [
+   "closed_eyeblossom"
+  ]
+ },
+ {
+  "element": "gunpowder",
+  "members": [
+   "gunpowder"
+  ]
+ },
+ {
+  "element": "ice",
+  "members": [
+   "ice"
+  ]
+ },
+ {
+  "element": "ink_sac",
+  "members": [
+   "ink_sac"
+  ]
+ },
+ {
+  "element": "kelp",
+  "members": [
+   "kelp"
+  ]
+ },
+ {
+  "element": "lapis_lazuli",
+  "members": [
+   "lapis_lazuli"
+  ]
+ },
+ {
+  "element": "light_blue_flower",
+  "members": [
+   "blue_orchid"
+  ]
+ },
+ {
+  "element": "light_gray_flower",
+  "members": [
+   "azure_bluet",
+   "oxeye_daisy",
+   "white_tulip"
+  ]
+ },
+ {
+  "element": "lily_pad",
+  "members": [
+   "lily_pad"
+  ]
+ },
+ {
+  "element": "log",
+  "members": [
+   "acacia_log",
+   "birch_log",
+   "cherry_log",
+   "crimson_stem",
+   "dark_oak_log",
+   "jungle_log",
+   "mangrove_log",
+   "oak_log",
+   "pale_oak_log",
+   "poplar_log",
+   "spruce_log",
+   "warped_stem"
+  ]
+ },
+ {
+  "element": "magenta_flower",
+  "members": [
+   "allium",
+   "lilac"
+  ]
+ },
+ {
+  "element": "mangrove_roots",
+  "members": [
+   "mangrove_roots"
+  ]
+ },
+ {
+  "element": "melon_slice",
+  "members": [
+   "melon_slice"
+  ]
+ },
+ {
+  "element": "mob_head",
+  "members": [
+   "creeper_head",
+   "dragon_head",
+   "piglin_head",
+   "skeleton_skull",
+   "wither_skeleton_skull",
+   "zombie_head"
+  ]
+ },
+ {
+  "element": "moss",
+  "members": [
+   "moss_block",
+   "pale_moss_block"
+  ]
+ },
+ {
+  "element": "mud",
+  "members": [
+   "mud"
+  ]
+ },
+ {
+  "element": "mushroom",
+  "members": [
+   "brown_mushroom",
+   "red_mushroom",
+   "shelf_mushroom"
+  ]
+ },
+ {
+  "element": "mutton",
+  "members": [
+   "mutton"
+  ]
+ },
+ {
+  "element": "nautilus_shell",
+  "members": [
+   "nautilus_shell"
+  ]
+ },
+ {
+  "element": "nether_roots",
+  "members": [
+   "crimson_roots",
+   "warped_roots"
+  ]
+ },
+ {
+  "element": "nether_wart",
+  "members": [
+   "nether_wart"
+  ]
+ },
+ {
+  "element": "netherrack",
+  "members": [
+   "netherrack"
+  ]
+ },
+ {
+  "element": "obsidian",
+  "members": [
+   "obsidian"
+  ]
+ },
+ {
+  "element": "orange_flower",
+  "members": [
+   "open_eyeblossom",
+   "orange_tulip",
+   "torchflower"
+  ]
+ },
+ {
+  "element": "phantom_membrane",
+  "members": [
+   "phantom_membrane"
+  ]
+ },
+ {
+  "element": "pink_flower",
+  "members": [
+   "cactus_flower",
+   "peony",
+   "pink_petals",
+   "pink_tulip"
+  ]
+ },
+ {
+  "element": "pointed_dripstone",
+  "members": [
+   "pointed_dripstone"
+  ]
+ },
+ {
+  "element": "poisonous_potato",
+  "members": [
+   "poisonous_potato"
+  ]
+ },
+ {
+  "element": "porkchop",
+  "members": [
+   "porkchop"
+  ]
+ },
+ {
+  "element": "potato",
+  "members": [
+   "potato"
+  ]
+ },
+ {
+  "element": "prismarine_crystals",
+  "members": [
+   "prismarine_crystals"
+  ]
+ },
+ {
+  "element": "prismarine_shard",
+  "members": [
+   "prismarine_shard"
+  ]
+ },
+ {
+  "element": "pufferfish",
+  "members": [
+   "pufferfish"
+  ]
+ },
+ {
+  "element": "pumpkin",
+  "members": [
+   "pumpkin"
+  ]
+ },
+ {
+  "element": "quartz",
+  "members": [
+   "quartz"
+  ]
+ },
+ {
+  "element": "rabbit",
+  "members": [
+   "rabbit"
+  ]
+ },
+ {
+  "element": "rabbit_foot",
+  "members": [
+   "rabbit_foot"
+  ]
+ },
+ {
+  "element": "rabbit_hide",
+  "members": [
+   "rabbit_hide"
+  ]
+ },
+ {
+  "element": "raw_copper",
+  "members": [
+   "raw_copper"
+  ]
+ },
+ {
+  "element": "raw_gold",
+  "members": [
+   "raw_gold"
+  ]
+ },
+ {
+  "element": "raw_iron",
+  "members": [
+   "raw_iron"
+  ]
+ },
+ {
+  "element": "red_flower",
+  "members": [
+   "poppy",
+   "red_tulip",
+   "rose_bush"
+  ]
+ },
+ {
+  "element": "redstone",
+  "members": [
+   "redstone"
+  ]
+ },
+ {
+  "element": "resin_clump",
+  "members": [
+   "resin_clump"
+  ]
+ },
+ {
+  "element": "rotten_flesh",
+  "members": [
+   "rotten_flesh"
+  ]
+ },
+ {
+  "element": "salmon",
+  "members": [
+   "salmon"
+  ]
+ },
+ {
+  "element": "sand",
+  "members": [
+   "red_sand",
+   "sand"
+  ]
+ },
+ {
+  "element": "sapling",
+  "members": [
+   "acacia_sapling",
+   "azalea",
+   "birch_sapling",
+   "cherry_sapling",
+   "dark_oak_sapling",
+   "flowering_azalea",
+   "jungle_sapling",
+   "mangrove_propagule",
+   "oak_sapling",
+   "pale_oak_sapling",
+   "poplar_sapling",
+   "spruce_sapling"
+  ]
+ },
+ {
+  "element": "sculk",
+  "members": [
+   "sculk"
+  ]
+ },
+ {
+  "element": "sea_pickle",
+  "members": [
+   "sea_pickle"
+  ]
+ },
+ {
+  "element": "seagrass",
+  "members": [
+   "seagrass"
+  ]
+ },
+ {
+  "element": "seeds",
+  "members": [
+   "beetroot_seeds",
+   "pitcher_pod",
+   "torchflower_seeds",
+   "wheat_seeds"
+  ]
+ },
+ {
+  "element": "shroomlight",
+  "members": [
+   "shroomlight"
+  ]
+ },
+ {
+  "element": "shulker_shell",
+  "members": [
+   "shulker_shell"
+  ]
+ },
+ {
+  "element": "slime_ball",
+  "members": [
+   "slime_ball"
+  ]
+ },
+ {
+  "element": "snowball",
+  "members": [
+   "snow",
+   "snowball"
+  ]
+ },
+ {
+  "element": "soul_sand",
+  "members": [
+   "soul_sand",
+   "soul_soil"
+  ]
+ },
+ {
+  "element": "spider_eye",
+  "members": [
+   "spider_eye"
+  ]
+ },
+ {
+  "element": "stone",
+  "members": [
+   "blackstone",
+   "cobbled_deepslate"
+  ]
+ },
+ {
+  "element": "string",
+  "members": [
+   "string"
+  ]
+ },
+ {
+  "element": "sugar_cane",
+  "members": [
+   "sugar_cane"
+  ]
+ },
+ {
+  "element": "sulfur_spike",
+  "members": [
+   "sulfur_spike"
+  ]
+ },
+ {
+  "element": "sweet_berries",
+  "members": [
+   "sweet_berries"
+  ]
+ },
+ {
+  "element": "tropical_fish",
+  "members": [
+   "tropical_fish"
+  ]
+ },
+ {
+  "element": "tuff",
+  "members": [
+   "tuff"
+  ]
+ },
+ {
+  "element": "turtle_scute",
+  "members": [
+   "turtle_scute"
+  ]
+ },
+ {
+  "element": "vine",
+  "members": [
+   "hanging_roots",
+   "pale_hanging_moss",
+   "twisting_vines",
+   "vine",
+   "weeping_vines"
+  ]
+ },
+ {
+  "element": "wet_sponge",
+  "members": [
+   "wet_sponge"
+  ]
+ },
+ {
+  "element": "wheat",
+  "members": [
+   "wheat"
+  ]
+ },
+ {
+  "element": "white_flower",
+  "members": [
+   "lily_of_the_valley"
+  ]
+ },
+ {
+  "element": "yellow_flower",
+  "members": [
+   "dandelion",
+   "sunflower",
+   "wildflowers"
+  ]
+ }
+]

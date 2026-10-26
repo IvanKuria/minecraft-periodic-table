@@ -1,0 +1,199 @@
+{
+ "groups": [
+  {
+   "name": "Colourants",
+   "elements": [
+    "beetroot",
+    "black_flower",
+    "blue_flower",
+    "bone",
+    "cactus",
+    "cocoa_beans",
+    "cyan_flower",
+    "gray_flower",
+    "ink_sac",
+    "lapis_lazuli",
+    "light_blue_flower",
+    "light_gray_flower",
+    "magenta_flower",
+    "orange_flower",
+    "pink_flower",
+    "red_flower",
+    "sea_pickle",
+    "white_flower",
+    "yellow_flower"
+   ],
+   "shared_formula": "('shaped', ('ooo', 'oXo', 'ooo'), (('sand',), ('sand',), ('sand',), ('sand',), ('sand',), ('sand',), ('sand',), ('sand',)))",
+   "example_products": [
+    "red_stained_glass",
+    "red_stained_glass_pane"
+   ]
+  },
+  {
+   "name": "Masonry",
+   "elements": [
+    "chorus_fruit",
+    "cinnabar",
+    "end_stone",
+    "netherrack",
+    "prismarine_shard",
+    "quartz",
+    "resin_clump",
+    "snowball",
+    "sulfur_spike",
+    "tuff"
+   ],
+   "shared_formula": "('shaped', ('XX', 'XX'), ())",
+   "example_products": [
+    "purpur_block"
+   ]
+  },
+  {
+   "name": "Tool-formers",
+   "elements": [
+    "diamond",
+    "raw_copper",
+    "raw_gold",
+    "raw_iron",
+    "stone"
+   ],
+   "shared_formula": "('shaped', ('XXX', ' o ', ' o '), (('bamboo', 'log'), ('bamboo', 'log')))",
+   "example_products": [
+    "diamond_pickaxe"
+   ]
+  },
+  {
+   "name": "Packers",
+   "elements": [
+    "coal",
+    "emerald",
+    "kelp",
+    "slime_ball"
+   ],
+   "shared_formula": "('shapeless', 1, ())",
+   "example_products": [
+    "coal"
+   ]
+  },
+  {
+   "name": "Pair",
+   "elements": [
+    "bamboo",
+    "log"
+   ],
+   "shared_formula": "('shaped', ('X X', 'XXX'), ())",
+   "example_products": [
+    "bamboo_raft"
+   ]
+  },
+  {
+   "name": "Pair",
+   "elements": [
+    "blaze_rod",
+    "breeze_rod"
+   ],
+   "shared_formula": "('shapeless', 1, ())",
+   "example_products": [
+    "blaze_powder"
+   ]
+  },
+  {
+   "name": "Pair",
+   "elements": [
+    "clay_ball",
+    "sand"
+   ],
+   "shared_formula": "('shaped', ('XXX', 'XoX', 'XXX'), (('blue_flower', 'lapis_lazuli'),))",
+   "example_products": [
+    "blue_terracotta"
+   ]
+  },
+  {
+   "name": "Pair",
+   "elements": [
+    "melon_slice",
+    "wheat"
+   ],
+   "shared_formula": "('shapeless', 1, ())",
+   "example_products": [
+    "melon_seeds"
+   ]
+  }
+ ],
+ "inert": [
+  "beef",
+  "calcite",
+  "chicken",
+  "chorus_flower",
+  "cod",
+  "coral",
+  "coral_fan",
+  "dragon_egg",
+  "dripleaf",
+  "flower",
+  "froglight",
+  "glow_berries",
+  "grass",
+  "lily_pad",
+  "mutton",
+  "nether_roots",
+  "poisonous_potato",
+  "porkchop",
+  "rotten_flesh",
+  "salmon",
+  "sapling",
+  "sculk",
+  "seagrass",
+  "seeds",
+  "shroomlight",
+  "sweet_berries",
+  "tropical_fish",
+  "wet_sponge"
+ ],
+ "no_group_yet": [
+  "amethyst_shard",
+  "ancient_debris",
+  "apple",
+  "armadillo_scute",
+  "basalt",
+  "carrot",
+  "crying_obsidian",
+  "dirt",
+  "egg",
+  "ender_pearl",
+  "feather",
+  "flint",
+  "fungus",
+  "ghast_tear",
+  "glow_ink_sac",
+  "glowstone_dust",
+  "gravel",
+  "gunpowder",
+  "ice",
+  "mangrove_roots",
+  "mob_head",
+  "moss",
+  "mud",
+  "mushroom",
+  "nautilus_shell",
+  "nether_wart",
+  "obsidian",
+  "phantom_membrane",
+  "pointed_dripstone",
+  "potato",
+  "prismarine_crystals",
+  "pufferfish",
+  "pumpkin",
+  "rabbit",
+  "rabbit_foot",
+  "rabbit_hide",
+  "redstone",
+  "shulker_shell",
+  "soul_sand",
+  "spider_eye",
+  "string",
+  "sugar_cane",
+  "turtle_scute",
+  "vine"
+ ]
+}
