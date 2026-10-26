@@ -23,10 +23,22 @@
     "white_flower",
     "yellow_flower"
    ],
-   "shared_formula": "('shaped', ('ooo', 'oXo', 'ooo'), (('sand',), ('sand',), ('sand',), ('sand',), ('sand',), ('sand',), ('sand',), ('sand',)))",
+   "shared_recipe": {
+    "type": "shaped",
+    "with": [
+     "clay_ball x8"
+    ],
+    "shape": [
+     "ooo",
+     "oXo",
+     "ooo"
+    ]
+   },
    "example_products": [
-    "red_stained_glass",
-    "red_stained_glass_pane"
+    "red_terracotta",
+    "black_terracotta",
+    "blue_terracotta",
+    "white_terracotta"
    ]
   },
   {
@@ -43,9 +55,19 @@
     "sulfur_spike",
     "tuff"
    ],
-   "shared_formula": "('shaped', ('XX', 'XX'), ())",
+   "shared_recipe": {
+    "type": "shaped",
+    "with": [],
+    "shape": [
+     "XX",
+     "XX"
+    ]
+   },
    "example_products": [
-    "purpur_block"
+    "purpur_block",
+    "cinnabar_bricks",
+    "end_stone_bricks",
+    "nether_bricks"
    ]
   },
   {
@@ -57,9 +79,22 @@
     "raw_iron",
     "stone"
    ],
-   "shared_formula": "('shaped', ('XXX', ' o ', ' o '), (('bamboo', 'log'), ('bamboo', 'log')))",
+   "shared_recipe": {
+    "type": "shaped",
+    "with": [
+     "bamboo or log x2"
+    ],
+    "shape": [
+     "  X",
+     " o ",
+     "o  "
+    ]
+   },
    "example_products": [
-    "diamond_pickaxe"
+    "diamond_spear",
+    "copper_spear",
+    "golden_spear",
+    "iron_spear"
    ]
   },
   {
@@ -70,9 +105,20 @@
     "kelp",
     "slime_ball"
    ],
-   "shared_formula": "('shapeless', 1, ())",
+   "shared_recipe": {
+    "type": "shaped",
+    "with": [],
+    "shape": [
+     "XXX",
+     "XXX",
+     "XXX"
+    ]
+   },
    "example_products": [
-    "coal"
+    "coal_block",
+    "emerald_block",
+    "dried_kelp_block",
+    "slime_block"
    ]
   },
   {
@@ -81,9 +127,20 @@
     "bamboo",
     "log"
    ],
-   "shared_formula": "('shaped', ('X X', 'XXX'), ())",
+   "shared_recipe": {
+    "type": "shaped",
+    "with": [
+     "string x2"
+    ],
+    "shape": [
+     "  X",
+     " Xo",
+     "X o"
+    ]
+   },
    "example_products": [
-    "bamboo_raft"
+    "fishing_rod",
+    "fishing_rod"
    ]
   },
   {
@@ -92,9 +149,13 @@
     "blaze_rod",
     "breeze_rod"
    ],
-   "shared_formula": "('shapeless', 1, ())",
+   "shared_recipe": {
+    "type": "brewing",
+    "into": "awkward potion"
+   },
    "example_products": [
-    "blaze_powder"
+    "potion",
+    "potion"
    ]
   },
   {
@@ -103,9 +164,18 @@
     "clay_ball",
     "sand"
    ],
-   "shared_formula": "('shaped', ('XXX', 'XoX', 'XXX'), (('blue_flower', 'lapis_lazuli'),))",
+   "shared_recipe": {
+    "type": "shaped",
+    "with": [],
+    "shape": [
+     "X  ",
+     "XX ",
+     "XXX"
+    ]
+   },
    "example_products": [
-    "blue_terracotta"
+    "brick_stairs",
+    "red_sandstone_stairs"
    ]
   },
   {
@@ -114,9 +184,14 @@
     "melon_slice",
     "wheat"
    ],
-   "shared_formula": "('shapeless', 1, ())",
+   "shared_recipe": {
+    "type": "shapeless",
+    "with": [],
+    "x_count": 1
+   },
    "example_products": [
-    "melon_seeds"
+    "melon_seeds",
+    "wheat"
    ]
   }
  ],

@@ -61,6 +61,19 @@ def recipes_raw():
     return out
 
 
+def describe(formula):
+    """A blanked recipe in words: the shape with X where the element goes, plus everything else it needs."""
+    if formula[0] == 'brew':
+        return {'type': 'brewing', 'into': 'awkward potion' if formula[1] == 'awkward' else formula[1]}
+    rest = Counter(' or '.join(r) for r in formula[2])
+    out = {'type': formula[0], 'with': [f'{n} x{k}' if k > 1 else n for n, k in sorted(rest.items())]}
+    if formula[0] == 'shaped':
+        out['shape'] = list(formula[1])
+    else:
+        out['x_count'] = formula[1]
+    return out
+
+
 def main():
     elements = json.load(open(ROOT / 'results/elements.json'))
     recs = recipes_raw()
@@ -150,10 +163,11 @@ def main():
     for g in clusters:
         if len(g) < 2:
             continue
-        shared = Counter(k for e in g for k in T[e]).most_common(1)[0][0]
-        example = sorted(set.intersection(*(formulas[e][shared] for e in g)) or formulas[g[0]][shared])[:3]
+        counts = Counter(k for e in g for k in T[e])
+        shared = min(counts, key=lambda k: (-counts[k], str(k)))
+        example = [sorted(formulas[e][shared])[0] for e in sorted(g) if formulas[e][shared]][:4]
         name = next((NAMES[e] for e in g if e in NAMES), 'Pair' if len(g) == 2 else 'Group')
-        groups.append({'name': name, 'elements': sorted(g), 'shared_formula': str(shared), 'example_products': example})
+        groups.append({'name': name, 'elements': sorted(g), 'shared_recipe': describe(shared), 'example_products': example})
     inert = sorted(e['element'] for e in elements if e['element'] not in T)
     unplaced = sorted(g[0] for g in clusters if len(g) == 1)
     json.dump({'groups': groups, 'inert': inert, 'no_group_yet': unplaced}, open(ROOT / 'results/groups.json', 'w'), indent=1)
