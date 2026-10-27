@@ -4,7 +4,7 @@
 
 **I went through every recipe in Minecraft and built it its own periodic table, the same way Mendeleev built the real one.**
 
-[![Watch the video](assets/thumbnail.png)](https://youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](assets/thumbnail.png)](https://youtube.com/watch?v=zZdUuSiavLU)
 
 <sub>Click the thumbnail to watch the video.</sub>
 
